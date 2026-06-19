@@ -1,35 +1,12 @@
-# Hi, I'm Sanchita Pawar
+# Sanchita Pawar
 
-B.Tech CSE (AI/ML) Student  
-Learning: Python, Data Structures, AI Basics  
-Building projects and improving problem-solving  
+B.Tech CSE (AI/ML) @ Vishwakarma University | GSSoC 2026 Contributor
 
-## Skills (Learning Phase)
- Python
- Git & GitHub
- Basic Machine Learning
+Building things that work in the real world:
+- CodeSheriff — offline AI code reviewer, runs fully in terminal, zero network dependency
+- IoT Irrigation System — tested by 10 farmers, co-authored research paper on sensor optimization
+- Food Delivery Route Optimizer — Dijkstra's algorithm on Mumbai GPS data
 
-## Current Focus
- Building Python projects  
- Practicing DSA  
- Exploring AI basics  
+Currently: Open source AI tooling @ GirlScript Summer of Code 2026
 
-## Goals
- Get internships & global opportunities  
- Build AI-based projects  
- Work on real-world applications  
-
-<!--
-**sanchita-pawar/sanchita-pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI coding tools to build fast and ship real products.
